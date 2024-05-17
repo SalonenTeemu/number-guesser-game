@@ -1,0 +1,7 @@
+C:\omagithub\C-SHARP-PROJEKTI\number-guesser\number-guesser\bin\Debug\number-guesser.exe.config
+C:\omagithub\C-SHARP-PROJEKTI\number-guesser\number-guesser\bin\Debug\number-guesser.exe
+C:\omagithub\C-SHARP-PROJEKTI\number-guesser\number-guesser\bin\Debug\number-guesser.pdb
+C:\omagithub\C-SHARP-PROJEKTI\number-guesser\number-guesser\obj\Debug\number-guesser.csproj.AssemblyReference.cache
+C:\omagithub\C-SHARP-PROJEKTI\number-guesser\number-guesser\obj\Debug\number-guesser.csproj.CoreCompileInputs.cache
+C:\omagithub\C-SHARP-PROJEKTI\number-guesser\number-guesser\obj\Debug\number-guesser.exe
+C:\omagithub\C-SHARP-PROJEKTI\number-guesser\number-guesser\obj\Debug\number-guesser.pdb
